@@ -39,8 +39,8 @@ Modern, hızlı ve kullanıcı dostu bir URL kısaltma uygulaması. TinyURL ve B
 
 1. **Repository'yi klonlayın:**
    ```bash
-   git clone https://github.com/nuekkis/Link-Shortener-Site.git
-   cd Link-Shortener-Site
+   git clone https://github.com/nuekkis/URL-Shortener-Site.git
+   cd URL-Shortener-Site
    ```
 
 2. **Bağımlılıkları yükleyin:**
